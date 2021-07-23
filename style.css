@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h3 {
+    font-weight: bold;
+}
+
+.forecast {
+    font-size: 0.9em;
+}
+
+span {
+    font-size: 1em;
+}
+
+li:hover {
+    background-color: lightslategray;
+    text-decoration: underline;
+}
+
+.jumbotron h1 {
+    background: linear-gradient(to right, rgb(47, 0, 255), rgb(7, 7, 6));
+}
+
+
+/* background: linear-gradient(to right, rgb(47, 0, 255), rgb(7, 7, 6)); */
